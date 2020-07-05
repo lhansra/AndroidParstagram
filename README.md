@@ -45,7 +45,7 @@ Please list areas of the assignment you'd like to **discuss further with your pe
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im2.ezgif.com/tmp/ezgif-2-f8c4fe4d3bab.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/S8ww5vDyU96EKOQ17y/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Credits
 
